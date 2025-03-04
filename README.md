@@ -18,7 +18,6 @@
   </p>
 </div>
 
-# Hola 
  <> Sobre mí </>
 <pre>
    - Estudiante técnico de Diseño y Desarrollo de Software en Tecsup 2022-2024.
