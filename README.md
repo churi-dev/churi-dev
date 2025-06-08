@@ -1,8 +1,9 @@
-# 👋 Hola, soy Jhon Churivanti
+# 👋 Hola 
 
-Apasionado por el desarrollo backend, enfocado en construir soluciones escalables y eficientes. Me interesa crear aplicaciones robustas usando tecnologías modernas como Java, Spring Boot y React.
+# 💻 Backend first. Frontend fluido. Todo en su contenedor.
 
-Actualmente trabajando en proyectos personales que integran **React, Spring Boot y Docker** para resolver problemas reales y mejorar mis habilidades como desarrollador.
+Stack preferido: Spring Boot · React · Docker  
+Buscando retos que me hagan crecer y proyectos que generen impacto.
 
 ---
 
