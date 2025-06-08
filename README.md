@@ -20,18 +20,24 @@
 
  <> Sobre mí </>
 <pre>
-   - Estudiante técnico de Diseño y Desarrollo de Software en Tecsup 2022-2024.
-   - Aprendiendo y mejorando cada día.
-   - A continuación encontrará mis proyectos integradores realizados como estudiante.
+  - Técnico en Diseño y Desarrollo de Software - Tecsup (2022–2024).
+  - Apasionado por el desarrollo backend y la construcción de soluciones escalables.
+  - Actualmente trabajando en proyectos personales enfocados en React, Spring Boot y Docker.
+  - Buscando oportunidades donde pueda seguir creciendo como desarrollador.
 </pre>
 
 <br>
 <h2 align="center">Tecnologías</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div>
 <hr>
 
