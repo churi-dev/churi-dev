@@ -1,13 +1,11 @@
-# 👋 Hola 
+### Hola 👋
 
-# 💻 Backend first. Frontend fluido. Todo en su contenedor.
+Soy Jhon, enfocado en desarrollo backend. :sunglasses:
 
 Stack preferido: Spring Boot · React · Docker  
-Buscando retos que me hagan crecer y proyectos que generen impacto.
+🔹Buscando retos que me hagan crecer y proyectos que generen impacto.
 
----
-
-:page_with_curl: I'm currently learning:
+:page_with_curl: Mis tecnologías:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -24,18 +22,15 @@ Buscando retos que me hagan crecer y proyectos que generen impacto.
 
 🔹 **Gestor Documental Académico**  
 Plataforma web desarrollada con Spring Boot y React para gestionar tesis y proyectos integradores de estudiantes.  
-🛠️ Tecnologías: Spring Boot · React · JWT · OAuth2 · Alfresco
+🛠️ Tecnologías: Spring Boot · React · JWT · OAuth2 · Drive
 
-🔹 **Nosoyunprofe**  
-Startup educativa que ofrece mentoría personalizada y recursos para el desarrollo profesional de estudiantes.  
-🛠️ Tecnologías: React · Spring Boot · Bootstrap · Firebase
 
 ---
 
 ## 👨‍💼 Sobre mí
 
-🎓 Técnico en Diseño y Desarrollo de Software - **Tecsup** (2022–2024)  
-🎯 Buscando oportunidades donde pueda seguir creciendo como desarrollador.  
+🎓 Técnico en Diseño y Desarrollo de Software - **Tecsup** (2022–2024)
+🎯 Soy de Perú, tengo 21 años.
 📚 Siempre aprendiendo, colaborando y desarrollando soluciones útiles.
 
 ---
