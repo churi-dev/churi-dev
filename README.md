@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy Jhon Churivanti</h1>
-<p align="center">👨‍💻 Técnico en Diseño y Desarrollo de Software | Apasionado por el backend | En constante aprendizaje</p>
 <div align="center">
   <p align="center">
   <br>
