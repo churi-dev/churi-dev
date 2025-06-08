@@ -29,12 +29,11 @@ Plataforma web desarrollada con Spring Boot y React para gestionar tesis y proye
 🛠 Stack: Spring Boot · React · OAuth2 · JWT · Docker
 
 ---
-
 ## 🙋‍♂️ Sobre mí
 
 🎓 Técnico en Diseño y Desarrollo de Software - **Tecsup (2022–2024)**  
 🇵🇪 Desde Perú · 21 años  
-📚 Siempre aprendiendo, colaborando y desarrollando soluciones.
+💡 Siempre aprendiendo, colaborando y desarrollando soluciones.  
 📈 Actualmente creando proyectos personales y preparándome para nuevos retos profesionales.
 
 ---
