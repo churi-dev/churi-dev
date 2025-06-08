@@ -7,7 +7,7 @@ Buscando retos que me hagan crecer y proyectos que generen impacto.
 
 ---
 
-## 🚀 Tecnologías y herramientas
+:page_with_curl: I'm currently learning:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
