@@ -1,6 +1,6 @@
 ### 👋 ¡Hola!
 
-Soy Jhon, enfocado por el desarrollo backend :sunglasses:
+Soy Jhon, enfocado por el desarrollo backend y frontend :sunglasses:
 
 🔧 **Stack preferido:** Spring Boot · React · Docker  
 🔹Buscando retos que me hagan crecer y proyectos que generen impacto.
