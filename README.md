@@ -49,6 +49,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=churi-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonchuri11&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonchuri11&layout=compact&theme=radical" alt="langs" />
+</p>
 
 <div align="center">
   La enseñanza de este mundo es creer en tí, pero no puedes solo, necesitar volver a tu creador.º
