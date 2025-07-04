@@ -29,6 +29,14 @@ Plataforma web desarrollada con Spring Boot y React para gestionar tesis y proye
 🛠 Stack: Spring Boot · React · OAuth2 · JWT · Docker
 🎥 [Ver demo ](https://drive.google.com/file/d/1_xCEFDUlQz4_BbRrav1-GktLn_OECgij/view?usp=sharing) 
 ---
+
+## 📊 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=churi-dev&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churi-dev&layout=compact&theme=react&hide_border=true"/>
+</div>
+
 ## 🙋‍♂️ Sobre mí
 
 🎓 Técnico en Diseño y Desarrollo de Software - **Tecsup (2022–2024)**  
