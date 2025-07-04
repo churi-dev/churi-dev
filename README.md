@@ -27,7 +27,7 @@ Soy Jhon, enfocado por el desarrollo backend y frontend. :sunglasses:
 🗂 **Gestor Documental Académico**  
 Plataforma web desarrollada con Spring Boot y React para gestionar tesis y proyectos integradores de estudiantes.   
 🛠 Stack: Spring Boot · React · OAuth2 · JWT · Docker
-
+🎥 [Ver demo ](https://drive.google.com/file/d/1_xCEFDUlQz4_BbRrav1-GktLn_OECgij/view?usp=sharing) 
 ---
 ## 🙋‍♂️ Sobre mí
 
