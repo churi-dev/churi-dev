@@ -24,12 +24,45 @@ Soy Jhon, enfocado por el desarrollo backend y frontend. :sunglasses:
 
 ---
 
-## 📌 Proyectos personales
+## 📂 Proyectos personales destacados
 
-🗂 **Gestor Documental Académico**  
-Plataforma web desarrollada con Spring Boot y React para gestionar tesis y proyectos integradores de estudiantes.   
-🛠 Stack: Spring Boot · React · OAuth2 · JWT · Docker
-🎥 [Ver demo ](https://drive.google.com/file/d/1_xCEFDUlQz4_BbRrav1-GktLn_OECgij/view?usp=sharing) 
+### 📘 Study IA – Plataforma educativa impulsada por IA
+> `.NET Core Web API · Google Drive API · Gemini (Google AI) · ElevenLabs · SQL Server`
+
+Plataforma backend para que estudiantes suban archivos PDF y generen automáticamente resúmenes, quizzes, planes de estudio personalizados y simulaciones de entrevistas por voz.  
+📎 Funcionalidades:
+- Extracción de texto de PDF y almacenamiento en Google Drive
+- IA generativa con Gemini para resúmenes, preguntas y planes
+- Feedback de voz con ElevenLabs
+- Arquitectura limpia y documentada con Swagger  
+🛠️ [Ver código](https://github.com/tu_usuario/study-ia)
+
+---
+
+### 🛒 Product Search Intelligence IA
+> `Node.js · Express · Sequelize · Gemini AI · MySQL · Docker · Swagger`
+
+API RESTful que permite búsqueda inteligente de productos mediante lenguaje natural usando Gemini (Google AI).  
+📎 Funcionalidades:
+- CRUD de productos con roles `admin` y `cliente`
+- Autenticación con JWT
+- Transformación de frases como _"productos electrónicos de menos de 100 soles"_ en filtros estructurados
+- Despliegue en Render + Docker  
+🛠️ [Ver código](https://github.com/tu_usuario/product-search-ia)
+
+---
+
+### 📚 Gestor Documental Académico
+> `Spring Boot · React · OAuth2 · JWT · Docker · API Google Drive`
+
+Sistema web desarrollado para gestionar tesis y proyectos integradores o investigación.  
+📎 Funcionalidades:
+- Control de usuarios y archivos
+- Upload seguro con API Google Drive
+- Gestión de proyectos con CRUD completo
+- Módulo de búsqueda de documentos para los usuarios  
+🎥 [Ver demo](https://drive.google.com/file/d/1_xCEFDUlQz4_BbRrav1-GktLn_OECgij/view?usp=sharing)
+
 ---
 
 ## 📊 GitHub Analytics
