@@ -32,11 +32,13 @@ Plataforma web desarrollada con Spring Boot y React para gestionar tesis y proye
 🎥 [Ver demo ](https://drive.google.com/file/d/1_xCEFDUlQz4_BbRrav1-GktLn_OECgij/view?usp=sharing) 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=churi-dev&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churi-dev&layout=compact&theme=react&hide_border=true"/>
+  <a href="https://github.com/churi-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=churi-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=churi-dev&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
 
 ## 🙋‍♂️ Sobre mí
