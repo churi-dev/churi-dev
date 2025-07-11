@@ -37,7 +37,7 @@ Plataforma backend para que estudiantes suban archivos PDF y generen automática
 - IA generativa con Gemini para resúmenes, preguntas y planes
 - Feedback de voz con ElevenLabs
 - Arquitectura limpia y documentada con Swagger  
-🛠️ [Ver código](https://github.com/tu_usuario/study-ia)
+🛠️ [Ver código](https://github.com/churi-dev/study-ia-web-app.git)
 
 ---
 
@@ -50,7 +50,7 @@ API RESTful que permite búsqueda inteligente de productos mediante lenguaje nat
 - Autenticación con JWT
 - Transformación de frases como _"productos electrónicos de menos de 100 soles"_ en filtros estructurados
 - Despliegue en Render + Docker  
-🛠️ [Ver código](https://github.com/tu_usuario/product-search-ia)
+🛠️ [Ver código](https://github.com/churi-dev/product-search-inteligence-ia.git)
 
 ---
 
