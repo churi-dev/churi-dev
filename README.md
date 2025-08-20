@@ -2,7 +2,7 @@
 
 Soy Jhon, enfocado por el desarrollo backend y frontend. :sunglasses:
 
-🔧 **Stack preferido:** Spring Boot · React · Docker  
+🔧 **Stack preferido:** Node · React · Docker  
 🔹Buscando retos que me hagan crecer y proyectos que generen impacto.
 
 ---
@@ -10,11 +10,6 @@ Soy Jhon, enfocado por el desarrollo backend y frontend. :sunglasses:
 ## 🧠 Skills que uso para construir
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
