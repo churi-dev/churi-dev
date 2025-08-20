@@ -75,7 +75,7 @@ Sistema web desarrollado para gestionar tesis y proyectos integradores o investi
 ## 🙋‍♂️ Sobre mí
 
 🎓 Técnico en Diseño y Desarrollo de Software - **Tecsup (2022–2024)**  
-🇵🇪 Desde Perú · 21 años  
+🇵🇪 Desde Perú · 22 años  
 💡 Siempre aprendiendo, colaborando y desarrollando soluciones.  
 📈 Actualmente creando proyectos personales y preparándome para nuevos retos profesionales.
 
