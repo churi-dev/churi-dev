@@ -1,8 +1,7 @@
 ### 👋 ¡Hola!
 
 Soy Jhon, enfocado por el desarrollo backend y frontend. :sunglasses:
-
-🔧 **Stack preferido:** Node · React · Docker  
+ 
 🔹Buscando retos que me hagan crecer y proyectos que generen impacto.
 
 ---
