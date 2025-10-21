@@ -1,6 +1,6 @@
 ### 👋 ¡Hola!
 
-Soy Jhon, enfocado por el desarrollo backend y frontend. :sunglasses:
+Soy Jhon, enfocado por el desarrollo backend. :sunglasses:
  
 🔹Buscando retos que me hagan crecer y proyectos que generen impacto.
 
