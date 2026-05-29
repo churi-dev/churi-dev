@@ -1,8 +1,10 @@
 ### 👋 ¡Hola!
 
-Soy Jhon, enfocado por el desarrollo backend. :sunglasses:
- 
-🔹Buscando retos que me hagan crecer y proyectos que generen impacto.
+Soy Jhon, egresado de Diseño y Desarrollo de Software, con bases en frontend, backend y bases de datos, y orientación actual hacia QA y Testing de Software.
+
+Tengo conocimientos en Java, Spring Boot, APIs REST, SQL y comprensión de procesos SDLC y STLC, lo que me permite entender tanto el desarrollo como la validación de aplicaciones desde una perspectiva funcional y técnica.
+
+Me interesa seguir creciendo en el área de calidad de software. Destaco por mi aprendizaje continuo y enfoque colaborativo.
 
 ---
 
