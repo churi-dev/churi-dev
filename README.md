@@ -4,7 +4,7 @@ Soy Jhon, egresado de Diseño y Desarrollo de Software, con bases en frontend, b
 
 Tengo conocimientos en Java, Spring Boot, APIs REST, SQL y comprensión de procesos SDLC y STLC, lo que me permite entender tanto el desarrollo como la validación de aplicaciones desde una perspectiva funcional y técnica.
 
-Me interesa seguir creciendo en el área de calidad de software. Destaco por mi aprendizaje continuo y enfoque colaborativo.
+Me interesa seguir creciendo en el área de calidad de software. Soy una persona con aprendizaje continuo y enfoque colaborativo.
 
 ---
 
