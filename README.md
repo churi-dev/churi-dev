@@ -6,7 +6,7 @@ Soy Jhon, enfocado por el desarrollo backend. :sunglasses:
 
 ---
 
-## 🧠 Skills que uso para construir
+## 🧠 Skills
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -20,12 +20,12 @@ Soy Jhon, enfocado por el desarrollo backend. :sunglasses:
 
 ---
 
-## 📂 Proyectos personales destacados
+## 📂 Proyectos personales
 
 ### 📘 Study IA – Plataforma educativa impulsada por IA
 > `.NET Core Web API · Google Drive API · Gemini (Google AI) · ElevenLabs · SQL Server`
 
-Plataforma backend para que estudiantes suban archivos PDF y generen automáticamente resúmenes, quizzes, planes de estudio personalizados y simulaciones de entrevistas por voz.  
+Backend para que estudiantes suban archivos PDF y generen automáticamente resúmenes, quizzes, planes de estudio personalizados y simulaciones de entrevistas por voz.  
 📎 Funcionalidades:
 - Extracción de texto de PDF y almacenamiento en Google Drive
 - IA generativa con Gemini para resúmenes, preguntas y planes
