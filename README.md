@@ -70,7 +70,7 @@ Sistema web desarrollado para gestionar tesis y proyectos integradores o investi
   - 🇵🇪 Perú · 22 años  
   - En constante capacitación sobre desarrollo y calidad de Software
   - Me encanta leer (historias bíblicas)
-  - Escuchar música -> [:)](https://youtu.be/4oN0RCT9TLs?t=806)
+  - Escuchar música -> [canta alabanzas si estas alegre :) y ora cuando estés triste](https://youtu.be/4oN0RCT9TLs?t=806)
   - Sé que Dios cuida de mí e incluso de tí aunque no lo creas -> Solo recuerda [Colosenses 1:16](https://www.gotquestions.org/Espanol/todas-las-cosas-visibles-e-invisibles.html)   
 
 ---
