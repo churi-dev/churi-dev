@@ -1,3 +1,4 @@
+~ “Confía en Jehová con todo tu corazón y no te apoyes en tu propio entendimiento. Tómalo en cuenta en todos tus caminos, y él hará rectas tus sendas” (Proverbios 3:5, 6)
 ### 👋 ¡Hola!
 
 Soy Jhon, egresado de Diseño y Desarrollo de Software, con bases en frontend, backend y bases de datos, y orientación actual hacia QA y Testing de Software.
@@ -82,6 +83,5 @@ Sistema web desarrollado para gestionar tesis y proyectos integradores o investi
 ---
 
 > ✨ *La enseñanza de este mundo es creer en ti, pero no puedes solo. Necesitas volver a tu creador.*
->  ~ “Confía en Jehová con todo tu corazón y no te apoyes en tu propio entendimiento. Tómalo en cuenta en todos tus caminos, y él hará rectas tus sendas” (Proverbios 3:5, 6)
 
 
