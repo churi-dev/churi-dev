@@ -8,7 +8,7 @@ Me interesa seguir creciendo en el área de calidad de software. Soy una persona
 
 ---
 
-## 🧠 Skills
+## -> Habilidades
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -22,9 +22,9 @@ Me interesa seguir creciendo en el área de calidad de software. Soy una persona
 
 ---
 
-## 📂 Proyectos personales
+## -> Proyectos personales
 
-### 📘 Study IA – Plataforma educativa impulsada por IA
+### 1. Study IA – Plataforma educativa impulsada por IA
 > `.NET Core Web API · Google Drive API · Gemini (Google AI) · ElevenLabs · SQL Server`
 
 Backend para que estudiantes suban archivos PDF y generen automáticamente resúmenes, quizzes, planes de estudio personalizados y simulaciones de entrevistas por voz.  
@@ -33,11 +33,11 @@ Backend para que estudiantes suban archivos PDF y generen automáticamente resú
 - IA generativa con Gemini para resúmenes, preguntas y planes
 - Feedback de voz con ElevenLabs
 - Arquitectura limpia y documentada con Swagger  
-🛠️ [Ver código](https://github.com/churi-dev/study-ia-web-app.git)
+  ~ [Ver código](https://github.com/churi-dev/study-ia-web-app.git)
 
 ---
 
-### 🛒 Product Search Intelligence IA
+### 2. Product Search Intelligence IA
 > `Node.js · Express · Sequelize · Gemini AI · MySQL · Docker · Swagger`
 
 API RESTful que permite búsqueda inteligente de productos mediante lenguaje natural usando Gemini (Google AI).  
@@ -46,11 +46,11 @@ API RESTful que permite búsqueda inteligente de productos mediante lenguaje nat
 - Autenticación con JWT
 - Transformación de frases como _"productos electrónicos de menos de 100 soles"_ en filtros estructurados
 - Despliegue en Render + Docker  
-🛠️ [Ver código](https://github.com/churi-dev/product-search-inteligence-ia.git)
+  ~ [Ver código](https://github.com/churi-dev/product-search-inteligence-ia.git)
 
 ---
 
-### 📚 Gestor Documental Académico
+### 3. Gestor Documental Académico
 > `Spring Boot · React · OAuth2 · JWT · Docker · API Google Drive`
 
 Sistema web desarrollado para gestionar tesis y proyectos integradores o investigación.  
@@ -59,30 +59,22 @@ Sistema web desarrollado para gestionar tesis y proyectos integradores o investi
 - Upload seguro con API Google Drive
 - Gestión de proyectos con CRUD completo
 - Módulo de búsqueda de documentos para los usuarios  
-🎥 [Ver demo](https://drive.google.com/file/d/1_xCEFDUlQz4_BbRrav1-GktLn_OECgij/view?usp=sharing)
+  ~ [Ver demo](https://drive.google.com/file/d/1_xCEFDUlQz4_BbRrav1-GktLn_OECgij/view?usp=sharing)
 
 ---
 
-## 📊 GitHub Analytics
+## -> Sobre mí
 
-<div align="center">
-  <a href="https://github.com/churi-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=churi-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=churi-dev&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</div>
-
-## 🙋‍♂️ Sobre mí
-
-🎓 Técnico en Diseño y Desarrollo de Software - **Tecsup (2022–2024)**  
-🇵🇪 Desde Perú · 22 años  
-💡 En constante capacitación sobre desarrollo y calidad de Software   
+  - Técnico en Diseño y Desarrollo de Software - **Tecsup (2022–2024)**  
+  - 🇵🇪 Desde Perú · 22 años  
+  - En constante capacitación sobre desarrollo y calidad de Software
+  - Me encanta leer (historias bíblicas)
+  - Escuchar música -> [:)](https://youtu.be/4oN0RCT9TLs?t=806)
+  - Sé que Dios cuida de mí e incluso de tí aunque no lo creas -> Solo recuerda [Colosenses 1:16](https://www.gotquestions.org/Espanol/todas-las-cosas-visibles-e-invisibles.html)   
 
 ---
 
-## 📬 Contacto
-
-¿Charlamos? Aquí me encuentras:
+## -> Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-churivanti-alva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:churivantialvajhonn@gmail.com)
@@ -90,5 +82,6 @@ Sistema web desarrollado para gestionar tesis y proyectos integradores o investi
 ---
 
 > ✨ *La enseñanza de este mundo es creer en ti, pero no puedes solo. Necesitas volver a tu creador.*
+>  ~ “Confía en Jehová con todo tu corazón y no te apoyes en tu propio entendimiento. Tómalo en cuenta en todos tus caminos, y él hará rectas tus sendas” (Proverbios 3:5, 6)
 
 
