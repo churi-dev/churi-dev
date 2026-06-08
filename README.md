@@ -1,7 +1,7 @@
 ~ “Confía en Jehová con todo tu corazón y no te apoyes en tu propio entendimiento. Tómalo en cuenta en todos tus caminos, y él hará rectas tus sendas” (Proverbios 3:5, 6)
 ### 👋 ¡Hola!
 
-Soy Jhon, egresado de Diseño y Desarrollo de Software, con bases en frontend, backend y bases de datos, y orientación actual hacia QA y Testing de Software.
+Soy Jhon, egresado de Diseño y Desarrollo de Software, con interés en calidad de software, y orientación actual hacia QA y Testing de Software.
 
 Tengo conocimientos en Java, Spring Boot, APIs REST, SQL y comprensión de procesos SDLC y STLC, lo que me permite entender tanto el desarrollo como la validación de aplicaciones desde una perspectiva funcional y técnica.
 
