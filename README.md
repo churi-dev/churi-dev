@@ -3,7 +3,7 @@
 
 Soy Jhon, egresado de Diseño y Desarrollo de Software, con interés en calidad de software, y orientación actual hacia QA y Testing de Software.
 
-Tengo conocimientos en Java, Spring Boot, APIs REST, SQL y comprensión de procesos SDLC y STLC, lo que me permite entender tanto el desarrollo como la validación de aplicaciones desde una perspectiva funcional y técnica.
+Tengo conocimientos en Java, Spring Boot, SQL y comprensión de procesos SDLC y STLC, lo que me permite entender tanto el desarrollo como la validación de aplicaciones desde una perspectiva funcional y técnica.
 
 Me interesa seguir creciendo en el área de calidad de software. Soy una persona con aprendizaje continuo y enfoque colaborativo.
 
